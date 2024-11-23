@@ -8,6 +8,11 @@ Welcome to my project on learning about version control! In this repository, I w
 
 
 ## Solving merge conflicts takes conscious effort, but I can do it!
+## What I Like About Version Control
+I really like how version control lets me track changes over time and easily collaborate with other developers. 
+
+## Challenges with Version Control
+Sometimes, resolving merge conflicts can be confusing and time-consuming, especially when multiple people are working on the same parts of the code. It is so time consuming I am hungry. 
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
